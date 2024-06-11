@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/AvinashSharma1/react-basics/issues"
   },
-  "homepage": "https://github.com/AvinashSharma1/react-basics#readme"
+  "homepage": "https://github.com/AvinashSharma1/react-basics#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
