@@ -20,5 +20,6 @@ const heading4 = React.createElement("h2",{id: "heading4", className:"heading"},
 const children = React.createElement("div",{id:"child"}, [heading,heading2]);
 const children2 = React.createElement("div",{id:"child2"}, [heading3,heading4]);
 const parent = React.createElement("div",{id:"parent"}, [children,children2]);
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
