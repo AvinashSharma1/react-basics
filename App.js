@@ -1,18 +1,3 @@
-/**
- * <div id="parent">
- *      <div id="child">
- *              <h1>This is H1 child!</h1>
- *              <h2>This is H1 child!</h2>
- *      <div>
- *      <div id="child2">
- *              <h1>This is H1 child!</h1>
- *              <h2>This is H1 child!</h2>
- *      <div>
- * </div>
- * 
- * 
- */
-
 const heading = React.createElement("h1",{id: "heading", className:"heading"},"This is H1 heading!!");
 const heading2 = React.createElement("h2",{id: "heading2", className:"heading"},"This is H2 heading !!");
 const heading3 = React.createElement("h1",{id: "heading3", className:"heading"},"This is H1 heading !!");
