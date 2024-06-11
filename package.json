@@ -1,0 +1,26 @@
+{
+  "name": "react-basics",
+  "version": "1.0.0",
+  "description": "React Basics App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvinashSharma1/react-basics.git"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "react",
+    "basics",
+    "Avinash"
+  ],
+  "author": "Avinash Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvinashSharma1/react-basics/issues"
+  },
+  "homepage": "https://github.com/AvinashSharma1/react-basics#readme"
+}
